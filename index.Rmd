@@ -1,6 +1,9 @@
 ---
-title: "index"
-output: html_document
+title: "Jerri Chen"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
